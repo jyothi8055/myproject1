@@ -1,0 +1,164 @@
+{
+  "main": {
+    "name":"jyothi nagavarapu",
+    "occupation":"student",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.png",
+    "bio":"My life is better than my daydreams.Sprinkling kindness everywhere I go.",
+    "contactmessage":"my dear readers you can get in contact with me forany issues.contact with my mail-id or mobile",
+    "email": "jyothimail88@gmail.com",
+    "phone": "9848022844",
+    "address":{
+      "street":"LB nagar colony",
+      "city":"mylavaram",
+      "state":"Andhra Pradesh",
+      "zip": "521181"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com/tim.baker.906",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/tbakerx",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"my skills are:Active listening.Communication.Computer skills.Customer service.personal skills.Leadership.Management skills.Problem-solving.",
+    "education":[
+      {
+        "school":"lakireddy balireddy College of engineering",
+        "degree":"CSE departent",
+        "graduated":"April 2022",
+        "description":"i enjoyed my life very well in school life here are my skills i learned in my school:Customer serviceFriendly.Good listener.Guest services.Presentation.Reading.Verbal communication.Writing."
+      },
+      {
+        "school":"prathibha vidyani kethan",
+        "degree":"SSC intermediate",
+        "graduated":"March 2015",
+        "description":"The skills section of your resume includes your abilities that are related to the jobs you are applying for. In this section, you should list skills that are relevant to the position or career field that you are interested in, such as computer skills, software skills, and/or language skills."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Your praise must be genuine and balanced. ...",
+        "user":"madhuri ooha"
+      },
+      {
+        "text":"Your recognition will be most effective if it comes as soon as possible after the desired activity or achievement has occurred",
+        "user":"ramya latha... impersonator"
+      }
+    ]
+  }
+}
